@@ -1,0 +1,18 @@
+.Profile
+{
+    margin-top: 20vh;
+}
+
+.Profile-Card
+{
+    width: 40%;
+    background: rgba(50, 50, 50, 0.646);
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+}
+
+.Profile button
+{
+    background-color: red;
+}

@@ -1,0 +1,36 @@
+.NavBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    background-color: transparent;
+    background: rgba(255, 255, 255, 0.646);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: black;
+  }
+  
+  .NavBar p {
+    margin: 0;
+  }
+  
+  .NavBar .dashboard {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .NavBar button {
+    cursor: pointer;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+  }
+
+
+  .logout:hover
+  {
+    color: red;
+  }

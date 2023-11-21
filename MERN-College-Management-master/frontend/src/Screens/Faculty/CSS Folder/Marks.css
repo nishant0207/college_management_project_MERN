@@ -1,0 +1,7 @@
+.Marks{
+    width: 85%;
+    margin: 40px auto;
+    background:rgba(53, 49, 49, 0.646);
+    backdrop-filter: blur(3px);
+    border-radius: 20px;
+}
