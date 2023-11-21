@@ -25,5 +25,5 @@ app.use("/api/marks", require("./routes/marks"));
 app.use("/api/branch", require("./routes/branch"));
 
 app.listen(port, () => {
-  console.log(`Server Listening On http://localhost:${port}`);
+  console.log(`Server Listening On https://school-management-project-mern.onrender.com:${port}`);
 });
