@@ -1,1 +1,2 @@
-# school_management_project_MERN
+# School Management Project (MERN)
+
