@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Heading from "../../components/Heading";
 import EditFaculty from "./Faculty/EditFaculty";
 import AddFaculty from "./Faculty/AddFaculty";
-import "/Users/nishantdalal/VS CODE FILES/MERN STACK/MERN-College-Management-master/frontend/src/Screens/Admin/CssFolder/Faculty.css"
+import "./CssFolder/Faculty.css"
 
 const Faculty = () => {
   const [selected, setSelected] = useState("add");
