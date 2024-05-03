@@ -77,7 +77,7 @@ const Login = () => {
         </form>
       </div>
       <div className="absolute top-4 left-4">
-        <h1>College Management</h1>
+        <h1>School Management</h1>
       </div>
       <div className="absolute top-4 right-4">
         <button
